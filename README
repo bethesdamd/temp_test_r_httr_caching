@@ -1,0 +1,5 @@
+Experiments with R Shiny, creating some apps for the first time.
+Testing retrieving data from a remote https endpoint (github raw file).
+Testing whether the shiny app retrieves the remote data every time the app is loaded, or if it caches the data...?
+It reloads the data each time the shiny app page is reloaded, from what I can tell.  Or, at least,
+I'm changing the data file and the app is reflecting the change.
