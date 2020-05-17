@@ -1,0 +1,12 @@
+name: My_First
+title: My_First
+username:
+account: bethesda
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2313203
+bundleId: 3157940
+url: https://bethesda.shinyapps.io/My_First/
+when: 1589719227.37053
+asMultiple: FALSE
+asStatic: FALSE

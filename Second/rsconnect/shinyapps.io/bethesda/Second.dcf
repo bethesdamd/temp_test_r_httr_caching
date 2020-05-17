@@ -1,0 +1,12 @@
+name: Second
+title: Second
+username:
+account: bethesda
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2313283
+bundleId: 3158012
+url: https://bethesda.shinyapps.io/Second/
+when: 1589721912.14968
+asMultiple: FALSE
+asStatic: FALSE
